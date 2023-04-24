@@ -7,10 +7,6 @@ const {
 } = require('../helpers/fsUtils');
 
 
-
-
-
-
 // GET Route for retrieving all the notes
 notes.get('/', (req, res) => {
     readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
@@ -27,7 +23,7 @@ notes.get('/:id', (req, res) => {
         const result = json.filter((note) => note.id === noteId);
         return result.length > 0
           ? res.json(result)
-          : res.json('No tip with that ID');
+          : res.json('No note with that ID');
       });
   });
 
