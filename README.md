@@ -2,6 +2,7 @@
 
 
 ## Tools
+  *  [GitHub](https://github.com/TuddaT0224/Note-Taker-Express)
 
   *  [GitHub Url](https://tuddat0224.github.io/Note-Taker-Express/)
 
