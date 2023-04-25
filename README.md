@@ -5,7 +5,7 @@
 
   *  [GitHub Url](https://tuddat0224.github.io/Note-Taker-Express/)
 
-  *  [WebBrowser Url](https://murmuring-harbor-52452.herokuapp.com/notes)
+  *  [WebBrowser Url](https://murmuring-harbor-52452.herokuapp.com/notes) https://murmuring-harbor-52452.herokuapp.com/notes
 
 
 
