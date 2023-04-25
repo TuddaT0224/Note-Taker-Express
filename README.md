@@ -3,7 +3,7 @@
 
 ## Tools
 
-  *  GitHub Url: (https://tuddat0224.github.io/Note-Taker-Express/)
+  *  GitHub Url: (https://tuddat0224.github.io/Note-Taker-Express/#readme)
 
   *  WebBrowser Url:(https://murmuring-harbor-52452.herokuapp.com/notes)
 
@@ -29,10 +29,10 @@
 
 ## Table of Contents
 
-*[Tools]
-*[Description]
-*[Instructions]
-*[Demo]
+*[Tools](#tools)
+*[Description](#description)
+*[Instructions](#instructions-how-to-install)
+*[Demo](#demo)
 
 ## Instructions (how to install)
 
